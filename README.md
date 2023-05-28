@@ -9,6 +9,8 @@ To create a Gradio application similar to ChatGPT, we leverage the power of the 
 3. Use the Gradio GUI to define the input and output components of your application. For example, you can create a text input box for users to enter their queries and a chat-like response display to show the generated responses.<br>
 4.Customize the appearance and functionality of your application by setting attributes such as labels, placeholder texts, and button styles.<br>
 Complete Gradio GUI Framework here.https://gradio.app/docs/ <br>
+![1](https://github.com/Nimra064/Chatgpt_AI_Assistant_Gradio_App/assets/71897920/15fc4af7-2847-49f2-8e97-e34f18036d8b)
+
 
 ### Step 2: Create an API on OpenAI and Obtain the Key:
 
@@ -33,9 +35,9 @@ Complete Gradio GUI Framework here.https://gradio.app/docs/ <br>
 6. Public URL for your application here you can access through this Link https://huggingface.co/spaces/Nimra064/gradio_chatgpt_chatbox <br>
 
 Conclusion : 
-By following these steps, you can design, develop, and deploy a Gradio application similar to ChatGPT, leveraging the power of the OpenAI API and the Hugging Face platform.
-Public Link : https://huggingface.co/spaces/Nimra064/gradio_chatgpt_chatbox
-Github :https://github.com/Nimra064/Chatgpt_AI_Assistant_Gradio_App
+By following these steps, you can design, develop, and deploy a Gradio application similar to ChatGPT, leveraging the power of the OpenAI API and the Hugging Face platform.<br>
+Public Link : https://huggingface.co/spaces/Nimra064/gradio_chatgpt_chatbox <br>
+Github :https://github.com/Nimra064/Chatgpt_AI_Assistant_Gradio_App <br>
 
 
 
