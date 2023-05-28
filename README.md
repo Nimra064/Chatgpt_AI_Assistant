@@ -33,8 +33,10 @@ Complete Gradio GUI Framework here.https://gradio.app/docs/ <br>
 4. Deploy your Gradio application using the Hugging Face deployment features, which will provide a public URL for your application.<br>
 5. Test your deployed application and make sure it behaves as intended.<br>
 6. Public URL for your application here you can access through this Link https://huggingface.co/spaces/Nimra064/gradio_chatgpt_chatbox <br>
+7. My Application Framework Display look like this : <br>
+<img width="960" alt="output" src="https://github.com/Nimra064/Chatgpt_AI_Assistant_Gradio_App/assets/71897920/f72ea049-5169-4dc5-b8f2-24685e6b15e8">
 
-Conclusion : 
+### Conclusion : <br>
 By following these steps, you can design, develop, and deploy a Gradio application similar to ChatGPT, leveraging the power of the OpenAI API and the Hugging Face platform.<br>
 Public Link : https://huggingface.co/spaces/Nimra064/gradio_chatgpt_chatbox <br>
 Github :https://github.com/Nimra064/Chatgpt_AI_Assistant_Gradio_App <br>
